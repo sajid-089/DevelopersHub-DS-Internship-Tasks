@@ -23,7 +23,7 @@ Each task is implemented in a **clean, reproducible, ML-dev style** using **Pyth
 
 ## Repository Structure
 
-```text
+
 DevelopersHub-DS-Internship-Tasks/
 ├─ notebooks/
 │  ├─ Task1_Iris_EDA.ipynb
@@ -51,6 +51,7 @@ DevelopersHub-DS-Internship-Tasks/
 
 ## Setup (How to Run)
 1) Create a virtual environment (recommended)
+
 ```bash
 python -m venv .venv
 # Windows PowerShell:
@@ -58,12 +59,15 @@ python -m venv .venv
 # Mac/Linux:
 source .venv/bin/activate
 ```
+
 2) Install dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+
 3) Run notebooks
 Open notebooks in Jupyter / VS Code / Colab and run cells top-to-bottom (recommended: Run All).
+
 
 ## Completed Tasks
 ## Task 1 — Iris Dataset EDA
