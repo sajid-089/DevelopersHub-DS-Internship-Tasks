@@ -39,7 +39,7 @@ DevelopersHub-DS-Internship-Tasks/
 │  ├─ task4_figures/                      # EDA + residual diagnostics
 │  └─ task5_figures/                      # (if completed)
 │
-├─ data/                                  # datasets (NOT pushed to GitHub)
+├─ data/                                  # datasets
 ├─ README.md
 └─ .gitignore
 ```
