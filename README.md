@@ -7,7 +7,7 @@ Each task is implemented in a **clean, reproducible, ML-dev style** using **Pyth
 **Completed:** **Task 1, Task 2, Task 3, Task 4** ✅ (4/5)
 
 ---
-``` text
+
 ## Table of Contents
 - [Repository Structure](#repository-structure)
 - [Tech Stack](#tech-stack)
@@ -18,7 +18,7 @@ Each task is implemented in a **clean, reproducible, ML-dev style** using **Pyth
   - [Task 3 — Customer Churn Prediction](#task-3--customer-churn-prediction)
   - [Task 4 — Insurance Charges Prediction (Regression)](#task-4--insurance-charges-prediction-regression)
 - [Submission Notes](#submission-notes)
-```
+
 ---
 
 ## Repository Structure
