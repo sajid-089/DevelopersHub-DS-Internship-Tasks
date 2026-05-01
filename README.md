@@ -4,7 +4,7 @@ This repository contains my work for the **DevelopersHub Corporation — Data Sc
 Each task is implemented in a **clean, reproducible, ML-dev style** using **Python**, **pandas**, **seaborn/matplotlib**, and **scikit-learn**.
 
 **Internship Requirement:** Complete at least **3 out of 5** tasks  
-**Completed:** **Task 1, Task 2, Task 3, Task 4, Task 5** **
+**Completed:** ***Task 1, Task 2, Task 3, Task 4, Task 5***
 ---
 
 ## Table of Contents
