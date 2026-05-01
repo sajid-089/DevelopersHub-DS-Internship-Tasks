@@ -23,7 +23,7 @@ Each task is implemented in a **clean, reproducible, ML-dev style** using **Pyth
 
 ## Repository Structure
 
-
+``` text
 DevelopersHub-DS-Internship-Tasks/
 ├─ notebooks/
 │  ├─ Task1_Iris_EDA.ipynb
@@ -42,6 +42,7 @@ DevelopersHub-DS-Internship-Tasks/
 ├─ data/                                  # datasets (NOT pushed to GitHub)
 ├─ README.md
 └─ .gitignore
+```
 
 ## Tech Stack
 - ython
